@@ -5,7 +5,7 @@
 data: 50ETF call options which can be traded on 2017.12.29 (maturity:1m 2m 3m 6m)
 data source: Wind
 2018.6.10 
-==============================================
+
 data:
 50etf.xlsx is the 50 ETF data from 2016.1.4-2018.6.13, including close price, net unit asset value which are used in the codes.
 
