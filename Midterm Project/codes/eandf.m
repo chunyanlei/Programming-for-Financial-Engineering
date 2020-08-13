@@ -6,7 +6,7 @@
 clear
 close all
 
-dataFile='/Users/leichunyan/Desktop/PKU/大四下/金融工程软件编程/Midterm Project/USTreasSpotRates.xlsx'
+dataFile='~/Midterm Project/USTreasSpotRates.xlsx'
 
 %=================================================
 %
